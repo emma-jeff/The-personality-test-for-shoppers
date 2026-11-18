@@ -1,2 +1,47 @@
-# The-personality-test-for-shoppers
-An interactive shopping personality quiz built by rabattcode.pro with HTML, CSS, and JavaScript. Helps users understand their shopping habits and discover practical tips for smarter purchasing decisions.
+# Shopping Personality Quiz
+
+The Shopping Personality Quiz is an interactive tool created by RabattCode.pro to help users understand their shopping habits, purchasing decisions, and spending behaviour.
+
+By answering five simple questions, users can discover their shopping personality and receive practical suggestions for making smarter purchasing decisions.
+
+## About RabattCode.pro
+
+RabattCode.pro is a leading online discount platform that helps consumers discover discount codes, promotional offers, and attractive deals from various retailers.
+
+With a focus on making online shopping easier and more rewarding, RabattCode.pro provides shoppers with useful resources to explore shopping opportunities and make informed purchasing decisions.
+
+## Features
+
+- Five interactive shopping questions
+- Four unique shopping personality types
+- Automatic score calculation
+- Personalized shopping insights
+- User-friendly interface
+- Mobile-responsive design
+
+## Shopping Personality Types
+
+1. The Conscious Shopper
+2. The Smart Shopper
+3. The Flexible Shopper
+4. The Spontaneous Shopper
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## How to Use
+
+1. Open the quiz.
+2. Answer all five questions.
+3. Submit your answers.
+4. Discover your shopping personality.
+5. Explore your personalized shopping insights.
+
+## Created By
+
+This Shopping Personality Quiz is independently created and developed by [RabattCode.pro](https://rabattcode.pro/).
+
+Visit RabattCode.pro to discover shopping deals and explore more ways to shop smart.
