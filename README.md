@@ -42,6 +42,6 @@ With a focus on making online shopping easier and more rewarding, RabattCode.pro
 
 ## Created By
 
-This Shopping Personality Quiz is independently created and developed by [RabattCode.pro](https://rabattcode.pro/).
+This [Shopping Personality Quiz](https://rabattcode.pro/was-fuer-ein-kaeufer-sind-sie) is independently created and developed by [RabattCode.pro](https://rabattcode.pro/).
 
 Visit RabattCode.pro to discover shopping deals and explore more ways to shop smart.
